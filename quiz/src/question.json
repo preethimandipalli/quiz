@@ -1,0 +1,49 @@
+[
+    {
+           "question": "Which is the only mammal that can’t jump?",
+           "optionA": "Dog",
+           "optionB": "Elephant",
+           "optionC": "Goat",
+           "optionD": "Lion",
+           "answer": "Elephant"
+       },
+       {
+        "question": "Who among the following Indian pacers became the third pacer from the country to take 300 wickets in Test cricket?",
+        "optionA": "Jasprit Bumrah",
+        "optionB": "Umesh Yadav",
+        "optionC": "Mohammed Shami",
+        "optionD": "Ishant Sharma",
+        "answer": "Ishant Sharma"
+    },
+    {
+        "question": "Who has won the inaugural ICC Player of the Month award?",
+        "optionA": "Pat Cummins",
+        "optionB": "Rishabh Pant",
+        "optionC": "dhoni",
+        "optionD": "Kohli",
+        "answer": "Rishabh Pant"
+    },
+    {
+        "question": "Who is the first player in the history of cricket to score a double century in his 100th Test match??",
+        "optionA": "Dhoni",
+        "optionB": "Sachin",
+        "optionC": "Joe Root",
+        "optionD": "Rohit Sharma",
+        "answer": "Joe Root"
+    },
+    {
+        "question":"Which Indian batsman has become the first player in the world to hit 100 sixes in all formats against Australia?",
+        "optionA":"Virat Kohli",
+        "optionB": "Rohit Sharma",
+        "optionC": "Joe Root",
+        "optionD": "Ajinkya Rahane",
+        "answer": "Rohit Sharma"
+
+    }
+
+
+
+
+
+
+   ]

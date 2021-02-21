@@ -1,0 +1,42 @@
+
+.home,.result,.outer{
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(110, 98, 223);
+  flex-direction: column;
+  
+  height: 30em;
+}
+
+.options{
+  margin-top: 50px;
+}
+.inner{
+  
+  background-color: white;
+  width:70%;
+}
+
+.options button{
+  width: 25%;
+  padding: 15px;
+  margin-left: 100px;
+  margin-bottom: 55px;
+  background-color:#0275d8;
+  color: rgb(230, 238, 240);
+  border-radius: 45px;
+  
+}
+
+.button button{
+  margin-left: 30px;
+  padding: 10px;
+  color: rgb(202, 85, 85);
+  justify-content: center;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
